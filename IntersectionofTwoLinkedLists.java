@@ -1,5 +1,5 @@
 //Approach: Two Pointers
-public class Solution {
+class intersectionOfTwoLinkedLists {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode pA = headA;
         ListNode pB = headB;

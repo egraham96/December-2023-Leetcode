@@ -1,5 +1,5 @@
 //Approach: Using Hashmap
-class Solution {
+class luckyNumbersInAMatrix {
     public List<Integer> luckyNumbers (int[][] matrix) {
         HashMap<Integer,Integer> map = new HashMap<>();
         for(int i=0;i<matrix.length;i++){

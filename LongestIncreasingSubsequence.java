@@ -1,4 +1,4 @@
-class Solution {
+class longestIncreasingSubsequence {
     public int findLengthOfLCIS(int[] nums) {
         if (nums.length == 1) {
             return 1;

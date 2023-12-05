@@ -1,5 +1,5 @@
 // Approach: Sentinel Node
-class Solution {
+class removeLinkedListElement {
     public ListNode removeElements(ListNode head, int val) {
         if (head == null) {
             return head;
