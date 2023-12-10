@@ -1,5 +1,5 @@
 // Approach: Most Optimal, fill in Zeroes
-public class Solution {
+class moveZeroes {
 public static void moveZeroes(int[] nums) {
     if (nums == null || nums.length == 0) return;        
 
